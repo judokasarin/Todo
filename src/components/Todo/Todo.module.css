@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    text-align: center;
+    
+    
+}
+
+
+.errormsg {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.input {
+    background-color: #fff !important;
+    text-align: center;
+    color:rgba(255, 255, 255, 0.7) im !important;
+}
